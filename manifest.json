@@ -15,8 +15,8 @@
 
 	],
 
-	"start_url":"https://muhammad-rifqi.github.io/",
-	"scope":"https://muhammad-rifqi.github.io/",
+	"start_url":"/",
+	"scope":".",
 	"background_color":"#006699",
 	"theme_color":"#006699",
 	"display":"standalone",
